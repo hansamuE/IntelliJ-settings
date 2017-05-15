@@ -56,11 +56,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494865466746">
-        <mark key="[" line="74" column="52" />
-        <mark key="]" line="74" column="71" />
-        <mark key="." line="74" column="71" />
-        <mark key="^" line="74" column="71" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494866580707">
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="96" column="63" />
+        <mark key="." line="96" column="63" />
+        <mark key="^" line="96" column="63" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494862635029">
         <mark key="[" line="31" column="34" />
