@@ -56,17 +56,17 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494873106600">
-        <mark key="[" line="88" column="65" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="33" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494875339228">
+        <mark key="[" line="128" column="33" />
+        <mark key="]" line="130" column="103" />
+        <mark key="." line="130" column="103" />
+        <mark key="^" line="130" column="103" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494871190524">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="40" column="31" />
-        <mark key="." line="40" column="31" />
-        <mark key="^" line="40" column="31" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494875089785">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="59" column="35" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="35" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/predictors.go" timestamp="1492637604780">
         <mark key="[" line="22" column="21" />
@@ -129,7 +129,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljLnBvcFByZFtwXVtmXSA9IDAK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -138,31 +138,31 @@
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljLnBvcFByZFtwXVtmXSA9IDAK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWYucG9wQWNtW3BdID0gZi5wb3BBY21bcCAtIDFdCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljIDo9IGNsaWVudHNbcmVjWzJdXQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmIDo9IGZpbGVzW3JlY1sxXV0K</text>
+        <text encoding="base64">CQkJLy9wb3BQcmRbMF0gPSBtYWtlKG1hcFsqZmlsZV1pbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBfLCBvayA6PSBmaWxlc1tyZWNbMV1dOyAhb2sgewoJCQlmaWxlc1tyZWNbMV1dID0gJmZpbGV7aWQ6IHJlY1sxXX0KCQl9CgkJZiA6PSBmaWxlc1tyZWNbMV1dCgkJaWYgXywgb2sgOj0gY2xpZW50c1tyZWNbMl1dOyAhb2sgewoJCQljbGllbnRzW3JlY1syXV0gPSAmY2xpZW50e2lkOiByZWNbMl19CgkJfQoJCWMgOj0gY2xpZW50c1tyZWNbMl1dCg==</text>
+        <text encoding="base64">CQkJcG9wUHJkIDo9IAoJCQkvL3BvcFByZCA6PSBtYWtlKFtdbWFwWypmaWxlXWludCwgMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljLnBvcEFjbVtwXVtmXSsrCg==</text>
+        <text encoding="base64">CQljLnBvcFByZFtwXVtmXSA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljLnBvcFByZFtwXVtmXSsrCg==</text>
+        <text encoding="base64">CQkJCWYucG9wQWNtW3BdID0gZi5wb3BBY21bcCAtIDFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJYy5wb3BQcmRbcF1bZl0gPSAwCg==</text>
+        <text encoding="base64">CQljIDo9IGNsaWVudHNbcmVjWzJdXQo=</text>
       </register>
       <register name=":" type="4">
         <text>681,692d</text>
