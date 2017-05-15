@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1494824631268">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/atcoder/agc014/main.go" timestamp="1494076254891">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="11" />
@@ -15,49 +23,6 @@
         <mark key="." line="52" column="28" />
         <mark key="^" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/main.go" timestamp="1492637705477">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-      </file>
-      <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="38" column="55" />
-        <mark key="." line="38" column="55" />
-        <mark key="^" line="15" column="47" />
-      </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/main.go" timestamp="1493824226748">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/AfterClustering.java" timestamp="1494596109649">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors.go" timestamp="1492626052552">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader.go" timestamp="1492632433224">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="66" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1494824631268">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
         <mark key="]" line="18" column="48" />
@@ -69,6 +34,12 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/main.go" timestamp="1492637705477">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/dynamicbasic.go" timestamp="1492627285455">
         <mark key="[" line="18" column="78" />
@@ -116,6 +87,41 @@
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="55" />
+        <mark key="." line="38" column="55" />
+        <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/main.go" timestamp="1493824226748">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/AfterClustering.java" timestamp="1494596109649">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VCLab/Melissa/Research/src/ml/clustering123/ServeRateCal_SC_edit.java" timestamp="1494826393847">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="71" />
+        <mark key="^" line="41" column="71" />
+        <mark key="." line="41" column="71" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors.go" timestamp="1492626052552">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader.go" timestamp="1492632433224">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/TeamLab/TeamLab.java" timestamp="1490949467367">
         <mark key="[" line="0" column="0" />
