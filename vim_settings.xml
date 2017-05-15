@@ -1,0 +1,209 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1494820174498">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/atcoder/agc014/main.go" timestamp="1494076254891">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/generator/generator.go" timestamp="1493823866000">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/atcoder/main.go" timestamp="1494076765467">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/main.go" timestamp="1492637705477">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/dynamicbasic.go" timestamp="1492627285455">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="19" column="76" />
+        <mark key="." line="19" column="76" />
+        <mark key="^" line="19" column="76" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/constantbasic.go" timestamp="1492637430132">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/dynamicbasic.go" timestamp="1492637435890">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494820631175">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494819566659">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="55" column="49" />
+        <mark key="." line="55" column="49" />
+        <mark key="^" line="55" column="49" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/predictors.go" timestamp="1492637604780">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="26" column="56" />
+        <mark key="^" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/ServeRateCal_SC_edit.java" timestamp="1494596132444">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="55" />
+        <mark key="." line="38" column="55" />
+        <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/main.go" timestamp="1493824226748">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/AfterClustering.java" timestamp="1494596109649">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/TeamLab/TeamLab.java" timestamp="1490949467367">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors.go" timestamp="1492626052552">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader.go" timestamp="1492632433224">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="66" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/ReadFile.java" timestamp="1494596052163">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY2xpZW50c1tjaWRdLlNtYWxsQ2VsbCA9IHNtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0K</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Jg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJY2xpZW50c1tjaWRdLlNtYWxsQ2VsbCA9IHNtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJc21hbGxDZWxsc1tsZW4oc21hbGxDZWxscykgLSAxXS5DbGllbnRzW2NpZF0gPSBjbGllbnRzW2NpZF0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXQuTG9nKGNbIjIiXS5TbWFsbENlbGwuQ2xpZW50cykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXNjWzFdLkNsaWVudHNbIjEiXSA9IGNbIjEiXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJYyA6PSBjbGllbnRzW2NpZF0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXBlcmlvZHNbbGVuKHBlcmlvZHMpIC0gMV0uUmVxdWVzdHMgPSBtYWtlKFtdUmVxdWVzdCwgMCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJcGVyaW9kc1tsZW4ocGVyaW9kcykgLSAxXS5FbmQgPSBwZW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgUGVyaW9ke0VuZDogcGVuZCwgUmVxdWVzdHM6IG1ha2UoW11SZXF1ZXN0LCAwKX0pCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CXNtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0uQ2xpZW50cyA9IG1ha2UobWFwW3N0cmluZ10qQ2xpZW50KQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>681,692d</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>188,220d</entry>
+        <entry>187,211d</entry>
+        <entry>49,59d</entry>
+        <entry>73,89d</entry>
+        <entry>49,69d</entry>
+        <entry>74,90d</entry>
+        <entry>345,355d</entry>
+        <entry>665,681d</entry>
+        <entry>681,692d</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
