@@ -56,17 +56,17 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494858486260">
-        <mark key="[" line="73" column="58" />
-        <mark key="]" line="73" column="58" />
-        <mark key="." line="73" column="58" />
-        <mark key="^" line="73" column="58" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494863324534">
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="35" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494858532301">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494862635029">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/predictors.go" timestamp="1492637604780">
         <mark key="[" line="22" column="21" />
@@ -129,40 +129,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SW1wbGVtZW50IGFzc2lnbiBDbGllbnQgdG8gU21hbGxDZWxsCg==</text>
+        <text encoding="base64">CQljIDo9IGNsaWVudHNbcmVjWzJdXQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>period</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SW1wbGVtZW50IGFzc2lnbiBDbGllbnQgdG8gU21hbGxDZWxsCg==</text>
+        <text encoding="base64">CQljIDo9IGNsaWVudHNbcmVjWzJdXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY2xpZW50c1tjaWRdLlNtYWxsQ2VsbCA9IHNtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0K</text>
+        <text encoding="base64">CQlmIDo9IGZpbGVzW3JlY1sxXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJc21hbGxDZWxsc1tsZW4oc21hbGxDZWxscykgLSAxXS5DbGllbnRzW2NpZF0gPSBjbGllbnRzW2NpZF0K</text>
+        <text encoding="base64">CQlwIDo9IHBlcmlvZHNbbGVuKHBlcmlvZHMpIC0gMV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXQuTG9nKGNbIjIiXS5TbWFsbENlbGwuQ2xpZW50cykK</text>
+        <text encoding="base64">SW1wbGVtZW50IGFzc2lnbiBDbGllbnQgdG8gU21hbGxDZWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXNjWzFdLkNsaWVudHNbIjEiXSA9IGNbIjEiXQo=</text>
+        <text encoding="base64">CQkJY2xpZW50c1tjaWRdLlNtYWxsQ2VsbCA9IHNtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJYyA6PSBjbGllbnRzW2NpZF0K</text>
+        <text encoding="base64">CQkJc21hbGxDZWxsc1tsZW4oc21hbGxDZWxscykgLSAxXS5DbGllbnRzW2NpZF0gPSBjbGllbnRzW2NpZF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXBlcmlvZHNbbGVuKHBlcmlvZHMpIC0gMV0uUmVxdWVzdHMgPSBtYWtlKFtdUmVxdWVzdCwgMCkK</text>
+        <text encoding="base64">CXQuTG9nKGNbIjIiXS5TbWFsbENlbGwuQ2xpZW50cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcGVyaW9kc1tsZW4ocGVyaW9kcykgLSAxXS5FbmQgPSBwZW5kCg==</text>
+        <text encoding="base64">CXNjWzFdLkNsaWVudHNbIjEiXSA9IGNbIjEiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgUGVyaW9ke0VuZDogcGVuZCwgUmVxdWVzdHM6IG1ha2UoW11SZXF1ZXN0LCAwKX0pCg==</text>
+        <text encoding="base64">CQkJYyA6PSBjbGllbnRzW2NpZF0K</text>
       </register>
       <register name=":" type="4">
         <text>681,692d</text>
