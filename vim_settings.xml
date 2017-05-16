@@ -61,11 +61,11 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1494920945218">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1494921687510">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="47" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
@@ -103,10 +103,10 @@
         <mark key="." line="134" column="97" />
         <mark key="^" line="134" column="97" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494875089785">
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494921379378">
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="17" />
+        <mark key="." line="67" column="17" />
         <mark key="^" line="59" column="35" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/predictors/predictors.go" timestamp="1492637604780">
@@ -132,11 +132,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1494920925648">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1494921573276">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/ReadFile.java" timestamp="1494596052163">
         <mark key="[" line="181" column="0" />
