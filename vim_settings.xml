@@ -53,7 +53,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494935030127">
+      <file name="/Dummy.txt" timestamp="1494936552644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
@@ -131,11 +131,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1494934990249">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1494936362168">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/ReadFile.java" timestamp="1494596052163">
         <mark key="[" line="181" column="0" />
@@ -145,11 +145,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vdC5Mb2coc2NbMV0ucG9wQWNtKQo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>m</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
