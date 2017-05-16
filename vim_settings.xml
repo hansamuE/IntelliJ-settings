@@ -61,8 +61,8 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1494949902108">
-        <mark key="[" line="15" column="34" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1494952266418">
+        <mark key="[" line="4" column="54" />
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
