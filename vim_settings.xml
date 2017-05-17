@@ -53,7 +53,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494988522670">
+      <file name="/Dummy.txt" timestamp="1495011883041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
@@ -61,11 +61,11 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495011848948">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="20" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495017264421">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
@@ -97,11 +97,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1495010658540">
-        <mark key="[" line="114" column="48" />
-        <mark key="]" line="114" column="48" />
-        <mark key="^" line="116" column="71" />
-        <mark key="." line="114" column="48" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1495016269739">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="120" column="155" />
+        <mark key="^" line="120" column="155" />
+        <mark key="." line="120" column="155" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494956556752">
         <mark key="[" line="11" column="19" />
@@ -132,10 +132,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1495011075225">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator_test.go" timestamp="1495013967061">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+        <mark key="^" line="71" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/VCLab/Research/src/ml/clustering123/ReadFile.java" timestamp="1494596052163">
         <mark key="[" line="181" column="0" />
@@ -145,41 +146,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaWYK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXQuTG9nKGNzbCkK</text>
+        <text encoding="base64">CQkJaWYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdENzbF9oYXNGaWxlKHQgKnRlc3RpbmcuVCkgewoJdC5Mb2coY3NsKQoJdC5Mb2coY3NsLmhhc0ZpbGUoZjEpKQp9Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdENzbF9oYXNGaWxlKHQgKnRlc3RpbmcuVCkgewoJdC5Mb2coY3NsLmhhc0ZpbGUoZjEpKQp9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljIDo9IHIuY2xpZW50Cg==</text>
+        <text encoding="base64">CQkJaWYgYy5maWxlID09IGYgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmIDo9IHIuZmlsZQo=</text>
+        <text encoding="base64">CQlmb3IgXywgYyA6PSByYW5nZSBjcy5jYWNoZXMgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXAgPSBsZW4ocGVyaW9kcykgLSAxCg==</text>
+        <text encoding="base64">CWlkIGludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcCA9IDAK</text>
+        <text encoding="base64">CXNvcnQuU29ydChzY2wpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXNjbCA6PSBzY3MubGlzdAo=</text>
+        <text encoding="base64">CXNjbCA6PSBuZXcoc21hbGxDZWxsTGlzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNsID0gY2wubGlzdAo=</text>
+        <text encoding="base64">CXQuTG9nKGNzbCkK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
