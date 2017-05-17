@@ -61,11 +61,11 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1494993625512">
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="79" column="2" />
-        <mark key="." line="79" column="2" />
-        <mark key="^" line="79" column="2" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495004025972">
+        <mark key="[" line="91" column="61" />
+        <mark key="]" line="91" column="62" />
+        <mark key="." line="91" column="62" />
+        <mark key="^" line="89" column="27" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
@@ -97,11 +97,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1494993215164">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="26" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader.go" timestamp="1495005734816">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="170" column="35" />
+        <mark key="^" line="170" column="35" />
+        <mark key="." line="170" column="35" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1494956556752">
         <mark key="[" line="11" column="19" />
@@ -146,44 +146,44 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNjbCA6PSBzY3MubGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CWNsID0gY2wubGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNhbFNpbWlsYXJpdHkoc2ltRm9ybXVsYSwgaW50KSBbXVtdZmxvYXQ2NAo=</text>
+        <text encoding="base64">CQkJc2MuYXNzaWduVG8oY3NsW2ldKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBjbHVzdGVyTGlzdGVyIGludGVyZmFjZSB7Cg==</text>
+        <text encoding="base64">CWNzbCA6PSBtYWtlKGNhY2hlU3RvcmFnZUxpc3QsIGxlbihncm91cCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBjbHVzdGVyTGlzdGVyIGludGVyZmFjZSB7CgljYWxTaW1pbGFyaXR5KHNpbUZvcm11bGEsIGludCkgW11bXWZsb2F0NjQKfQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL3NtYWxsQ2VsbHNbbGVuKHNtYWxsQ2VsbHMpIC0gMV0ucG9wQWNtID0gW11maWxlUG9we21ha2UoZmlsZVBvcCl9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvL3NtYWxsQ2VsbHMgPSBhcHBlbmQoc21hbGxDZWxscywgJnNtYWxsQ2VsbHtjbGllbnRzOiBtYWtlKG1hcFtzdHJpbmddKmNsaWVudCksIHBvcEFjbTogW11maWxlUG9we21ha2UoZmlsZVBvcCl9fSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvL3NtYWxsQ2VsbHMgPSBhcHBlbmQoc21hbGxDZWxscywgJnNtYWxsQ2VsbHtjbGllbnRzOiBtYWtlKG1hcFtzdHJpbmddKmNsaWVudCksIHBvcEFjbTogW11maWxlUG9we21ha2UoZmlsZVBvcCl9fSkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWNhbFNpbWlsYXJpdHkoc2ltRm9ybXVsYSwgaW50KSBbXVtdZmxvYXQ2NAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dHlwZSBjbHVzdGVyTGlzdGVyIGludGVyZmFjZSB7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>681,692d</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
@@ -202,6 +202,7 @@
         <entry>345,355d</entry>
         <entry>665,681d</entry>
         <entry>681,692d</entry>
+        <entry>10</entry>
       </history-cmd>
       <history-expr />
       <history-input />
