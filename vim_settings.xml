@@ -61,11 +61,11 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495031326944">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="106" column="47" />
+      <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495033078374">
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="66" column="29" />
+        <mark key="." line="66" column="29" />
+        <mark key="^" line="66" column="29" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
@@ -146,8 +146,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY3Muc2VydmVkICs9IGNmLnNpemUKCQkJY3MuZG93bmxvYWRlZCArPSBmLnNpemUgLSBjZi5zaXplCg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
