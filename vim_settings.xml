@@ -24,6 +24,13 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495273340342">
+        <mark key="'" line="53" column="24" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+      </file>
       <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
         <mark key="[" line="38" column="54" />
         <mark key="]" line="38" column="55" />
@@ -53,7 +60,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495051336532">
+      <file name="/Dummy.txt" timestamp="1495272225411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
@@ -143,13 +150,15 @@
         <mark key="." line="181" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="53" column="24" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkbFJhdGVbcG5dID0gcC5kbFJhdGUK</text>
+      <register name="&quot;" type="4">
+        <text>cache</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
@@ -182,7 +191,7 @@
         <text encoding="base64">CWlmbCA9IGlmbC5pbnRlcnNlY3Rpb24oZnAyLmdldEZpbGVMaXN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -202,6 +211,7 @@
         <entry>665,681d</entry>
         <entry>681,692d</entry>
         <entry>10</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -218,6 +228,27 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

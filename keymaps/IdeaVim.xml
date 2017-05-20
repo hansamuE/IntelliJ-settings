@@ -1,0 +1,14 @@
+<keymap version="1" name="IdeaVim" parent="Default for GNOME">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="InsertLiveTemplate" />
+</keymap>
