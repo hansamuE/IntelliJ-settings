@@ -60,8 +60,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general_test.go" timestamp="1495347750075">
-        <mark key="[" line="22" column="9" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general_test.go" timestamp="1495348151373">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1495272225411">
         <mark key="[" line="0" column="0" />
@@ -89,11 +92,11 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general.go" timestamp="1495347146665">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general.go" timestamp="1495349149435">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/dynamicbasic.go" timestamp="1492627285455">
         <mark key="[" line="18" column="78" />
@@ -164,7 +167,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdEdldFVzZXJJbmZvKHQgKnRlc3RpbmcuVCkgewoJdQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -173,31 +176,31 @@
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmMgVGVzdEdldFVzZXJJbmZvKHQgKnRlc3RpbmcuVCkgewoJdQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkbFJhdGVbcG5dID0gcC5kbFJhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRsUmF0ZSA6PSBtYWtlKFtdZmxvYXQ2NCwgbGVuKHBsKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGRsUmF0ZSkK</text>
+        <text encoding="base64">CmZ1bmMgVGVzdEdldFVzZXJJbmZvKHQgKnRlc3RpbmcuVCkgewoJdQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlkbFJhdGVbcG5dID0gcC5kbFJhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRsUmF0ZSA6PSBtYWtlKFtdZmxvYXQ2NCwgbGVuKHBsKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZvciBfLCBwIDo9IHJhbmdlIHBsIHsK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGRsUmF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGlmbCA9PSBuaWwgewoJCXJldHVybiAwCgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
