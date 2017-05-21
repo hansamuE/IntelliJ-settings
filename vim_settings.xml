@@ -86,6 +86,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general.go" timestamp="1495344017179">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/dynamicbasic.go" timestamp="1492627285455">
         <mark key="[" line="18" column="78" />
         <mark key="]" line="19" column="76" />
@@ -191,7 +197,7 @@
         <text encoding="base64">CWlmbCA9IGlmbC5pbnRlcnNlY3Rpb24oZnAyLmdldEZpbGVMaXN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
@@ -210,8 +216,8 @@
         <entry>345,355d</entry>
         <entry>665,681d</entry>
         <entry>681,692d</entry>
-        <entry>10</entry>
         <entry>q</entry>
+        <entry>10</entry>
       </history-cmd>
       <history-expr />
       <history-input />
