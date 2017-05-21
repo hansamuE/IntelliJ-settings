@@ -12,6 +12,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad-intern/main.go" timestamp="1495360225429">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/generator/generator.go" timestamp="1493823866000">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="28" />
@@ -66,8 +72,20 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495272225411">
+      <file name="/Dummy.txt" timestamp="1495360546641">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/users/general.go" timestamp="1495352061947">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/users/users.go" timestamp="1495353579028">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
         <mark key="[" line="14" column="8" />
@@ -91,6 +109,12 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/users/general_test.go" timestamp="1495352058450">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general.go" timestamp="1495351235901">
         <mark key="[" line="70" column="1" />
@@ -144,10 +168,11 @@
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/main.go" timestamp="1495351377940">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/main.go" timestamp="1495353327409">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/TeamLab/TeamLab.java" timestamp="1490949467367">
         <mark key="[" line="0" column="0" />
@@ -170,41 +195,41 @@
       <jump line="53" column="24" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICIiCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX07IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ1c2VycyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHVzZXJzID0gbWFrZSh1c2VyTWFwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
@@ -265,6 +290,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
