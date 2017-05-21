@@ -30,11 +30,10 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495387469403">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="65" column="56" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495396161560">
+        <mark key="]" line="55" column="87" />
+        <mark key="^" line="55" column="87" />
+        <mark key="." line="55" column="87" />
       </file>
       <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
         <mark key="[" line="38" column="54" />
@@ -297,7 +296,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
