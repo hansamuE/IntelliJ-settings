@@ -87,10 +87,10 @@
         <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/general.go" timestamp="1495344017179">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/dynamicbasic.go" timestamp="1492627285455">
         <mark key="[" line="18" column="78" />
