@@ -94,11 +94,12 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495425569381">
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="17" />
-        <mark key="." line="71" column="17" />
-        <mark key="^" line="71" column="17" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495449524324">
+        <mark key="'" line="73" column="58" />
+        <mark key="[" line="201" column="18" />
+        <mark key="]" line="73" column="58" />
+        <mark key="." line="73" column="58" />
+        <mark key="^" line="73" column="58" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495051319513">
         <mark key="[" line="160" column="31" />
@@ -226,6 +227,9 @@
     </filemarks>
     <jumps>
       <jump line="53" column="24" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" />
+      <jump line="161" column="17" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
+      <jump line="200" column="17" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
+      <jump line="72" column="58" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
