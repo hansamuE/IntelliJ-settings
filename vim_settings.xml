@@ -33,11 +33,11 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495422227089">
-        <mark key="[" line="113" column="1" />
-        <mark key="]" line="50" column="8" />
-        <mark key="^" line="50" column="8" />
-        <mark key="." line="50" column="8" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495425068913">
+        <mark key="[" line="122" column="17" />
+        <mark key="]" line="124" column="16" />
+        <mark key="^" line="124" column="16" />
+        <mark key="." line="124" column="16" />
       </file>
       <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
         <mark key="[" line="38" column="54" />
@@ -94,11 +94,11 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495422239397">
-        <mark key="[" line="63" column="1" />
-        <mark key="]" line="168" column="43" />
-        <mark key="." line="168" column="43" />
-        <mark key="^" line="139" column="72" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495423555329">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495051319513">
         <mark key="[" line="160" column="31" />
@@ -229,40 +229,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vZm9yIF8sIGNzIDo9IHJhbmdlIGNhY2hlU3RvcmFnZXMgewoJLy8KCS8vfQo=</text>
+        <text encoding="base64">CQkvLwlyZWFkQ2xpZW50c0Fzc2lnbm1lbnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vZm9yIF8sIGNzIDo9IHJhbmdlIGNhY2hlU3RvcmFnZXMgewoJLy8KCS8vfQo=</text>
+        <text encoding="base64">CQkvLwlyZWFkQ2xpZW50c0Fzc2lnbm1lbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oIlJlYWQgUmVxdWVzdHMuLi4iKQoJCS8vCXJlYWRSZXF1ZXN0cygsIGMuUGVyaW9kRHVyYXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGMgbWFwW3N0cmluZ10qY2xpZW50Cg==</text>
+        <text encoding="base64">CS8vZm9yIF8sIGNzIDo9IHJhbmdlIGNhY2hlU3RvcmFnZXMgewoJLy8KCS8vfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGYgbWFwW3N0cmluZ10qZmlsZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyIHAgcGVyaW9kTGlzdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyIHNjbCBzbWFsbENlbGxMaXN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiBzbWFsbENlbGxzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIGMgbWFwW3N0cmluZ10qY2xpZW50Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyIGYgbWFwW3N0cmluZ10qZmlsZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIHAgcGVyaW9kTGlzdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFyIHNjbCBzbWFsbENlbGxMaXN0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBwZXJpb2RzLCBmaWxlcywgY2xpZW50cwo=</text>
+        <text encoding="base64">CXJldHVybiBzbWFsbENlbGxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
