@@ -94,12 +94,12 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495451610887">
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495452202396">
         <mark key="'" line="73" column="58" />
-        <mark key="[" line="216" column="31" />
-        <mark key="]" line="220" column="45" />
-        <mark key="." line="220" column="45" />
-        <mark key="^" line="220" column="45" />
+        <mark key="[" line="73" column="32" />
+        <mark key="]" line="87" column="66" />
+        <mark key="." line="87" column="66" />
+        <mark key="^" line="87" column="66" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495051319513">
         <mark key="[" line="160" column="31" />
@@ -196,11 +196,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1495450421760">
-        <mark key="[" line="70" column="1" />
-        <mark key="]" line="51" column="36" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="44" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1495452314496">
+        <mark key="[" line="76" column="256" />
+        <mark key="]" line="76" column="256" />
+        <mark key="." line="76" column="256" />
+        <mark key="^" line="76" column="253" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/main.go" timestamp="1495353327409">
         <mark key="[" line="13" column="16" />
@@ -233,40 +233,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CWBqc29uOiJmaWxlc19saW1pdCJg</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CWBqc29uOiJmaWxlc19saW1pdCJg</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBDb25maWcgc3RydWN0IHsKCUlzVHJhaW5lZCAgICAgICAgICAgIGJvb2wJYGpzb246ImlzX3RyYWluZWQiYAoJUGVyaW9kRHVyYXRpb24gICAgICAgdGltZS5EdXJhdGlvbglganNvbjoicGVyaW9kX2R1cmF0aW9uImAKCUNvb3BlcmF0aW9uVGhyZXNob2xkIGZsb2F0NjQJYGpzb246ImNvb3BlcmF0aW9uX3RocmVzaG9sZCJgCglUZXN0U3RhcnRQZXJpb2QgICAgICBpbnQJYGpzb246InRlc3Rfc3RhcnRfcGVyaW9kImAKCUNhY2hlUG9saWN5ICAgICAgICAgIGNhY2hlUG9saWN5CWBqc29uOiJjYWNoZV9wb2xpY3kiYAoJU2ltaWxhcml0eUZvcm11bGEgICAgc2ltaWxhcml0eUZvcm11bGEJYGpzb246InNpbWlsYXJpdHlfZm9ybXVsYSJgCglGaWxlc0xpbWl0ICAgICAgICAgICBpbnQJYGpzb246ImZpbGVzX2xpbWl0ImAKfQo=</text>
+        <text encoding="base64">CXsiaXNfdHJhaW5lZCI6ICJ0cnVlIiwgInBlcmlvZF9kdXJhdGlvbiI6ICIyNGgiLCAiY29vcGVyYXRpb25fdGhyZXNob2xkIjogIjAuMDYiLCAidGVzdF9zdGFydF9wZXJpb2QiOiAiMiIsICJjYWNoZV9wb2xpY3kiOiAibGVhc3RSZWNlbnRseVVzZWQiLCAic2ltaWxhcml0eV9mb3JtdWxhIjogImV4cG9uZW50aWFsIiwgImZpbGVzX2xpbWl0IjogIjAifSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzbWFsbENlbGxzLmFycmFuZ2VDb29wZXJhdGlvbihjLkNvb3BlcmF0aW9uVGhyZXNob2xkLCBjLlNpbWlsYXJpdHlGb3JtdWxhKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLwlyZWFkQ2xpZW50c0Fzc2lnbm1lbnQoKQo=</text>
+        <text encoding="base64">CQlzbWFsbENlbGxzLmFycmFuZ2VDb29wZXJhdGlvbihjLkNvb3BlcmF0aW9uVGhyZXNob2xkLCBjLlNpbWlsYXJpdHlGb3JtdWxhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oIlJlYWQgUmVxdWVzdHMuLi4iKQoJCS8vCXJlYWRSZXF1ZXN0cygsIGMuUGVyaW9kRHVyYXRpb24pCg==</text>
+        <text encoding="base64">CQkvLwlyZWFkQ2xpZW50c0Fzc2lnbm1lbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vZm9yIF8sIGNzIDo9IHJhbmdlIGNhY2hlU3RvcmFnZXMgewoJLy8KCS8vfQo=</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oIlJlYWQgUmVxdWVzdHMuLi4iKQoJCS8vCXJlYWRSZXF1ZXN0cygsIGMuUGVyaW9kRHVyYXRpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vZm9yIF8sIGNzIDo9IHJhbmdlIGNhY2hlU3RvcmFnZXMgewoJLy8KCS8vfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGMgbWFwW3N0cmluZ10qY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGYgbWFwW3N0cmluZ10qZmlsZQo=</text>
+        <text encoding="base64">dmFyIGMgbWFwW3N0cmluZ10qY2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHAgcGVyaW9kTGlzdAo=</text>
+        <text encoding="base64">dmFyIGYgbWFwW3N0cmluZ10qZmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
