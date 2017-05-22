@@ -94,12 +94,12 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495449524324">
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" timestamp="1495451610887">
         <mark key="'" line="73" column="58" />
-        <mark key="[" line="201" column="18" />
-        <mark key="]" line="73" column="58" />
-        <mark key="." line="73" column="58" />
-        <mark key="^" line="73" column="58" />
+        <mark key="[" line="216" column="31" />
+        <mark key="]" line="220" column="45" />
+        <mark key="." line="220" column="45" />
+        <mark key="^" line="220" column="45" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/sccache/simulator.go" timestamp="1495051319513">
         <mark key="[" line="160" column="31" />
@@ -196,8 +196,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1495421551594">
-        <mark key="[" line="51" column="36" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader_test.go" timestamp="1495450421760">
+        <mark key="[" line="70" column="1" />
         <mark key="]" line="51" column="36" />
         <mark key="." line="51" column="36" />
         <mark key="^" line="51" column="44" />
@@ -232,14 +232,14 @@
       <jump line="72" column="58" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CWBqc29uOiJmaWxlc19saW1pdCJg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">CWBqc29uOiJmaWxlc19saW1pdCJg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXBlcmlvZHMgPSBhcHBlbmQocGVyaW9kcywgbWFrZShbXVJlcXVlc3QsIDApKQoJCQkJcGVuZCA9IHBlbmQuQWRkKGR1cmF0aW9uKQo=</text>
+        <text encoding="base64">dHlwZSBDb25maWcgc3RydWN0IHsKCUlzVHJhaW5lZCAgICAgICAgICAgIGJvb2wJYGpzb246ImlzX3RyYWluZWQiYAoJUGVyaW9kRHVyYXRpb24gICAgICAgdGltZS5EdXJhdGlvbglganNvbjoicGVyaW9kX2R1cmF0aW9uImAKCUNvb3BlcmF0aW9uVGhyZXNob2xkIGZsb2F0NjQJYGpzb246ImNvb3BlcmF0aW9uX3RocmVzaG9sZCJgCglUZXN0U3RhcnRQZXJpb2QgICAgICBpbnQJYGpzb246InRlc3Rfc3RhcnRfcGVyaW9kImAKCUNhY2hlUG9saWN5ICAgICAgICAgIGNhY2hlUG9saWN5CWBqc29uOiJjYWNoZV9wb2xpY3kiYAoJU2ltaWxhcml0eUZvcm11bGEgICAgc2ltaWxhcml0eUZvcm11bGEJYGpzb246InNpbWlsYXJpdHlfZm9ybXVsYSJgCglGaWxlc0xpbWl0ICAgICAgICAgICBpbnQJYGpzb246ImZpbGVzX2xpbWl0ImAKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
@@ -269,7 +269,7 @@
         <text encoding="base64">dmFyIHAgcGVyaW9kTGlzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>100</text>
       </register>
     </registers>
     <search>
@@ -293,6 +293,7 @@
         <entry>52</entry>
         <entry>253</entry>
         <entry>w</entry>
+        <entry>100</entry>
       </history-cmd>
       <history-expr />
       <history-input />
