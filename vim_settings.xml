@@ -87,11 +87,11 @@
         <mark key="^" line="141" column="51" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/clustering.go" timestamp="1495656539978">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/clustering.go" timestamp="1495657763967">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/dlv-debug.txt" timestamp="1495416516110">
         <mark key="[" line="0" column="0" />
@@ -313,7 +313,7 @@
         <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXsiaXNfdHJhaW5lZCI6ICJ0cnVlIiwgInBlcmlvZF9kdXJhdGlvbiI6ICIyNGgiLCAiY29vcGVyYXRpb25fdGhyZXNob2xkIjogIjAuMDYiLCAidGVzdF9zdGFydF9wZXJpb2QiOiAiMiIsICJjYWNoZV9wb2xpY3kiOiAibGVhc3RSZWNlbnRseVVzZWQiLCAic2ltaWxhcml0eV9mb3JtdWxhIjogImV4cG9uZW50aWFsIiwgImZpbGVzX2xpbWl0IjogIjAifSwK</text>
@@ -322,28 +322,28 @@
         <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZvciBfLCBwIDo9IHJhbmdlIHBsIHsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWJhc2UuTm9ybWFsaXplKHRyYWluaW5nU2V0KQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbnN0IG1heEl0ZXJhdGlvbnMgPSA1MAo=</text>
+        <text encoding="base64">CWZvciBfLCBwIDo9IHJhbmdlIHBsIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CWJhc2UuTm9ybWFsaXplKHRyYWluaW5nU2V0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyICgK</text>
+        <text encoding="base64">CWNvbnN0IG1heEl0ZXJhdGlvbnMgPSA1MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciB0cmFpbmluZ1NldCBbXVtdZmxvYXQ2NAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRyYWluaW5nQ2xpZW50TGlzdCBjbGllbnRMaXN0Cg==</text>
+        <text encoding="base64">dmFyICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcG9wIDo9IDAK</text>
+        <text encoding="base64">CXZhciB0cmFpbmluZ1NldCBbXVtdZmxvYXQ2NAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
