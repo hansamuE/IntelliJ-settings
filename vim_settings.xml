@@ -237,11 +237,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1495838532364">
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="86" column="72" />
-        <mark key="^" line="86" column="72" />
-        <mark key="." line="86" column="72" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1495840160989">
+        <mark key="[" line="43" column="60" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -272,11 +272,11 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1495837840921">
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1495839948879">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="106" column="54" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/reader_test.go" timestamp="1495503147994">
         <mark key="[" line="11" column="183" />
@@ -305,8 +305,8 @@
       <jump line="68" column="31" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path + c.RequestsFileName + &quot;_clustering_model_&quot; + strconv.Itoa(cp.TrainStartPeriod) + &quot;_&quot; + strconv.Itoa(cp.TrainEndPeriod) + &quot;_&quot; + strconv.Itoa(cp.ClusterNumber) + &quot;c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaWYgY3AuVHJhaW5TdGFydFBlcmlvZCA8IDAgewoJCQkJY3AuVHJhaW5TdGFydFBlcmlvZCA9IDAKCQkJfQo=</text>
       </register>
       <register name="-" type="4">
         <text>path + c.RequestsFileName + &quot;_clustering_model_&quot; + strconv.Itoa(cp.TrainStartPeriod) + &quot;_&quot; + strconv.Itoa(cp.TrainEndPeriod) + &quot;_&quot; + strconv.Itoa(cp.ClusterNumber) + &quot;c</text>
@@ -315,31 +315,31 @@
         <text encoding="base64">CXsiaXNfdHJhaW5lZCI6ICJ0cnVlIiwgInBlcmlvZF9kdXJhdGlvbiI6ICIyNGgiLCAiY29vcGVyYXRpb25fdGhyZXNob2xkIjogIjAuMDYiLCAidGVzdF9zdGFydF9wZXJpb2QiOiAiMiIsICJjYWNoZV9wb2xpY3kiOiAibGVhc3RSZWNlbnRseVVzZWQiLCAic2ltaWxhcml0eV9mb3JtdWxhIjogImV4cG9uZW50aWFsIiwgImZpbGVzX2xpbWl0IjogIjAifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJaWYgY3AuVHJhaW5TdGFydFBlcmlvZCA8IDAgewoJCQkJY3AuVHJhaW5TdGFydFBlcmlvZCA9IDAKCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyLkNvbW1hID0gW11ydW5lKGNvbW1hKVswXQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIGNvbW1hICE9ICIiIHsK</text>
+        <text encoding="base64">CQlyLkNvbW1hID0gW11ydW5lKGNvbW1hKVswXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIGNvbW1hICE9ICIiIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGZvcm11bGEgc2ltaWxhcml0eUZvcm11bGEgPSBleHBvbmVudGlhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">dmFyIGZvcm11bGEgc2ltaWxhcml0eUZvcm11bGEgPSBleHBvbmVudGlhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXBvcCA9IHBvcEVuZAo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgcG9wRW5kLCBvayA6PSBjLnBvcHVsYXJpdHlBY2N1bXVsYXRlZFtwbFtsZW4ocGwpLTFdLmlkXVtmXTsgb2sgewo=</text>
+        <text encoding="base64">CQkJCXBvcCA9IHBvcEVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcG9wIDo9IDAK</text>
+        <text encoding="base64">CQkJaWYgcG9wRW5kLCBvayA6PSBjLnBvcHVsYXJpdHlBY2N1bXVsYXRlZFtwbFtsZW4ocGwpLTFdLmlkXVtmXTsgb2sgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -409,6 +409,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
