@@ -17,8 +17,8 @@
       <file name="/a.dummy" timestamp="1495417398031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/similarity.go" timestamp="1495664443552">
-        <mark key="[" line="38" column="60" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/similarity.go" timestamp="1495829846895">
+        <mark key="[" line="38" column="26" />
         <mark key="]" line="38" column="62" />
         <mark key="^" line="38" column="62" />
         <mark key="." line="38" column="62" />
@@ -78,8 +78,10 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/clustering.go" timestamp="1495663902947">
-        <mark key="[" line="60" column="30" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/clustering.go" timestamp="1495829798903">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/dlv-debug.txt" timestamp="1495416516110">
         <mark key="[" line="0" column="0" />
@@ -118,10 +120,10 @@
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator_test.go" timestamp="1495665904446">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="25" column="40" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator_test.go" timestamp="1495829330465">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/similarity_test.go" timestamp="1495505672320">
@@ -162,9 +164,10 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495665958215">
+      <file name="/Dummy.txt" timestamp="1495829378270">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/cookpad/users/users.go" timestamp="1495353579028">
         <mark key="[" line="0" column="12" />
@@ -230,11 +233,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1495786257938">
-        <mark key="[" line="229" column="35" />
-        <mark key="]" line="229" column="33" />
-        <mark key="^" line="229" column="33" />
-        <mark key="." line="229" column="33" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1495829426946">
+        <mark key="[" line="56" column="65" />
+        <mark key="]" line="56" column="66" />
+        <mark key="^" line="224" column="31" />
+        <mark key="." line="56" column="66" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -265,11 +268,11 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1495662707629">
-        <mark key="[" line="74" column="64" />
-        <mark key="]" line="75" column="63" />
-        <mark key="^" line="75" column="63" />
-        <mark key="." line="75" column="63" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1495829293759">
+        <mark key="[" line="71" column="33" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="71" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/reader_test.go" timestamp="1495503147994">
         <mark key="[" line="11" column="183" />
@@ -299,40 +302,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlmMi5Xcml0ZVN0cmluZygiXG4iKQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ZmlsZXNMaXN0IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXsiaXNfdHJhaW5lZCI6ICJ0cnVlIiwgInBlcmlvZF9kdXJhdGlvbiI6ICIyNGgiLCAiY29vcGVyYXRpb25fdGhyZXNob2xkIjogIjAuMDYiLCAidGVzdF9zdGFydF9wZXJpb2QiOiAiMiIsICJjYWNoZV9wb2xpY3kiOiAibGVhc3RSZWNlbnRseVVzZWQiLCAic2ltaWxhcml0eV9mb3JtdWxhIjogImV4cG9uZW50aWFsIiwgImZpbGVzX2xpbWl0IjogIjAifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmMi5Xcml0ZVN0cmluZygiXG4iKQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYy5hc3NpZ25XaXRoU2ltaWxhcml0eShjb25maWcuU2ltaWxhcml0eUZvcm11bGEsIGZpbHRlcikK</text>
+        <text encoding="base64">CQkJCQlwb3AgKz0gYy5wb3B1bGFyaXR5UGVyaW9kW3BsWzBdLmlkXVtmXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJCQlwb3AgLT0gcG9wU3RhcnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYy5hc3NpZ25XaXRoQ2x1c3RlcmluZ01vZGVsKCkK</text>
+        <text encoding="base64">CQkJCWlmIHBvcFN0YXJ0LCBvayA6PSBjLnBvcHVsYXJpdHlBY2N1bXVsYXRlZFtwbFswXS5pZF1bZl07IG9rIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBjb25maWcuSXNBc3NpZ25DbHVzdGVyaW5nIHsK</text>
+        <text encoding="base64">CQkJCXBvcCA9IHBvcEVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBzaW0gW11mbG9hdDY0Cg==</text>
+        <text encoding="base64">CQkJaWYgcG9wRW5kLCBvayA6PSBjLnBvcHVsYXJpdHlBY2N1bXVsYXRlZFtwbFtsZW4ocGwpLTFdLmlkXVtmXTsgb2sgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJcG9wIDo9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZmlsdGVyID0gbmlsCg==</text>
+        <text encoding="base64">UmVzZXQgYWZ0ZXIgZG9pbmcgZWFjaCBjb25maWcucGFyYW1ldGVycwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
