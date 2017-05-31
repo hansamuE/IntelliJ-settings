@@ -246,11 +246,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496266319337">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="308" column="48" />
-        <mark key="^" line="308" column="48" />
-        <mark key="." line="308" column="48" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496268150748">
+        <mark key="[" line="221" column="59" />
+        <mark key="]" line="221" column="90" />
+        <mark key="^" line="221" column="90" />
+        <mark key="." line="221" column="90" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -421,6 +421,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
