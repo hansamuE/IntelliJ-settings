@@ -85,10 +85,10 @@
         <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/clustering.go" timestamp="1496196564811">
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="103" column="64" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="100" column="64" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/filter/filter.go" timestamp="1495846935790">
         <mark key="[" line="231" column="52" />
