@@ -246,11 +246,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496269467095">
-        <mark key="[" line="240" column="44" />
-        <mark key="]" line="240" column="47" />
-        <mark key="^" line="240" column="47" />
-        <mark key="." line="240" column="47" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496646447934">
+        <mark key="[" line="328" column="19" />
+        <mark key="]" line="333" column="59" />
+        <mark key="^" line="333" column="59" />
+        <mark key="." line="333" column="59" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -287,11 +287,11 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1496204850023">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/config.go" timestamp="1496646150780">
+        <mark key="[" line="128" column="66" />
+        <mark key="]" line="129" column="67" />
+        <mark key="^" line="129" column="67" />
+        <mark key="." line="129" column="67" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/reader_test.go" timestamp="1495503147994">
         <mark key="[" line="11" column="183" />
