@@ -84,6 +84,12 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/reader.go" timestamp="1496891863913">
+        <mark key="[" line="250" column="38" />
+        <mark key="]" line="266" column="54" />
+        <mark key="." line="266" column="54" />
+        <mark key="^" line="266" column="54" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/filter/filter.go" timestamp="1495846935790">
         <mark key="[" line="231" column="52" />
         <mark key="]" line="232" column="0" />
@@ -240,11 +246,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496834622924">
-        <mark key="[" line="382" column="55" />
-        <mark key="]" line="382" column="63" />
-        <mark key="." line="382" column="63" />
-        <mark key="^" line="382" column="63" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1496892229575">
+        <mark key="[" line="330" column="67" />
+        <mark key="]" line="330" column="57" />
+        <mark key="." line="330" column="57" />
+        <mark key="^" line="330" column="57" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -315,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TestStartPeriod</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>TestStartPeriod</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnQoIuOBguOCi+aZguWIu++8miIpCgkJaWYgXywgZXJyIDo9IGZtdC5TY2FuZigiJWQiLCAmdGltZSk7IGVyciAhPSBuaWwgewoJCQlicmVhawoJCX0K</text>
