@@ -246,11 +246,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1497321240890">
-        <mark key="[" line="411" column="34" />
-        <mark key="]" line="411" column="44" />
-        <mark key="." line="411" column="44" />
-        <mark key="^" line="411" column="44" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1497322151625">
+        <mark key="[" line="437" column="48" />
+        <mark key="]" line="437" column="49" />
+        <mark key="." line="437" column="49" />
+        <mark key="^" line="437" column="49" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -321,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcG9wIDo9IHNjLnBvcHVsYXJpdGllc1BlcmlvZFtwLmlkXVtmaWxlXQo=</text>
