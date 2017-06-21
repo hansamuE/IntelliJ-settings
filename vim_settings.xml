@@ -240,11 +240,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498074983803">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="20" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498075740321">
+        <mark key="[" line="325" column="17" />
+        <mark key="]" line="327" column="48" />
+        <mark key="." line="327" column="48" />
+        <mark key="^" line="327" column="48" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
