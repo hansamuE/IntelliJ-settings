@@ -44,6 +44,11 @@
         <mark key="." line="39" column="100" />
         <mark key="^" line="39" column="100" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/dynamicbasic.go" timestamp="1498077078099">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
         <mark key="[" line="38" column="54" />
         <mark key="]" line="38" column="55" />
@@ -72,6 +77,11 @@
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/constantbasic.go" timestamp="1498077079754">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
         <mark key="[" line="14" column="8" />
@@ -194,6 +204,11 @@
         <mark key="^" line="160" column="32" />
         <mark key="." line="160" column="32" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/predictors.go" timestamp="1498077068030">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
         <mark key="]" line="18" column="48" />
@@ -240,8 +255,8 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498076746481">
-        <mark key="[" line="311" column="23" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498079921987">
+        <mark key="[" line="339" column="9" />
         <mark key="]" line="311" column="23" />
         <mark key="." line="311" column="23" />
         <mark key="^" line="21" column="23" />
@@ -315,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuYyByZWFkQ2x1c3RlcmluZ1Jlc3VsdEZpbGVzKHBhdGggc3RyaW5nLCBjIGNvbmZpZywgY3BqIHBhcmFtZXRlcnNKU09OKSB7Cgltb2RlbCA6PSBwYXRoICsgYy5SZXF1ZXN0c0ZpbGVOYW1lICsKCQkiX2NsdXN0ZXJpbmdfbW9kZWxfIiArIGNwai5DbHVzdGVyaW5nTWV0aG9kICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluU3RhcnRQZXJpb2QpICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluRW5kUGVyaW9kKSArCgkJIl8iICsgc3RyY29udi5JdG9hKGNwai5DbHVzdGVyTnVtYmVyKSArICIuanNvbiIKCWYsIGVyciA6PSBvcy5PcGVuKHBhdGggKyBjLlJlcXVlc3RzRmlsZU5hbWUgKwoJCSJfY2x1c3RlcmluZ19yZXN1bHRfIiArIGNwai5DbHVzdGVyaW5nTWV0aG9kICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluU3RhcnRQZXJpb2QpICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluRW5kUGVyaW9kKSArCgkJIl8iICsgc3RyY29udi5JdG9hKGNwai5DbHVzdGVyTnVtYmVyKSArICIuY3N2IikKCWlmIGVyciAhPSBuaWwgewoJCXBhbmljKGVycikKCX0KCWRlZmVyIGYuQ2xvc2UoKQoJcmVhZENsdXN0ZXJpbmdSZXN1bHQobW9kZWwsIGYpCn0K</text>
