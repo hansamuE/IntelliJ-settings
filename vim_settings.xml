@@ -292,11 +292,11 @@
         <mark key="." line="381" column="82" />
         <mark key="^" line="381" column="82" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498129771943">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498147049605">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -355,6 +355,12 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/gma.go" timestamp="1498147121102">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="15" />
       </file>
     </filemarks>
     <jumps>
