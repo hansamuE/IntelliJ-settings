@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/doubleexponentialsmoothing.go" timestamp="1498126566406">
-        <mark key="[" line="32" column="30" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/doubleexponentialsmoothing.go" timestamp="1498126971029">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/generator/reader.go" timestamp="1495511430636">
         <mark key="[" line="11" column="0" />
@@ -50,17 +50,23 @@
         <mark key="." line="39" column="100" />
         <mark key="^" line="39" column="100" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/dynamicbasic.go" timestamp="1498126580032">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/dynamicbasic.go" timestamp="1498126942948">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+        <mark key="^" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/TeamLab/src/TeamLab.java" timestamp="1490957184352">
         <mark key="[" line="38" column="54" />
         <mark key="]" line="38" column="55" />
         <mark key="." line="38" column="55" />
         <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/cb.go" timestamp="1498127930768">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="29" column="89" />
+        <mark key="^" line="29" column="89" />
+        <mark key="." line="29" column="89" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/main.go" timestamp="1493824226748">
         <mark key="[" line="5" column="31" />
@@ -85,11 +91,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/constantbasic.go" timestamp="1498126585634">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/constantbasic.go" timestamp="1498126921533">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/reader/reader.go" timestamp="1492635691473">
         <mark key="[" line="14" column="8" />
@@ -222,6 +228,11 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/db.go" timestamp="1498127836353">
+        <mark key="]" line="20" column="89" />
+        <mark key="." line="20" column="89" />
+        <mark key="^" line="20" column="89" />
+      </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/popularity-prediction/constantbasic.go" timestamp="1492626652006">
         <mark key="[" line="18" column="48" />
         <mark key="]" line="18" column="48" />
@@ -268,11 +279,16 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498126432026">
-        <mark key="[" line="326" column="104" />
-        <mark key="]" line="356" column="37" />
-        <mark key="." line="356" column="37" />
-        <mark key="^" line="356" column="37" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498127623834">
+        <mark key="[" line="319" column="35" />
+        <mark key="]" line="319" column="42" />
+        <mark key="." line="319" column="42" />
+        <mark key="^" line="319" column="42" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498127668463">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/github.com/hansamuE/research/reader/reader.go" timestamp="1493808560726">
         <mark key="[" line="10" column="0" />
@@ -343,40 +359,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CVNwIDo9IGlucHV0WzBdCglTZHAgOj0gaW5wdXRbMF0K</text>
+        <text encoding="base64">CWMgOj0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>A</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuYyByZWFkQ2x1c3RlcmluZ1Jlc3VsdEZpbGVzKHBhdGggc3RyaW5nLCBjIGNvbmZpZywgY3BqIHBhcmFtZXRlcnNKU09OKSB7Cgltb2RlbCA6PSBwYXRoICsgYy5SZXF1ZXN0c0ZpbGVOYW1lICsKCQkiX2NsdXN0ZXJpbmdfbW9kZWxfIiArIGNwai5DbHVzdGVyaW5nTWV0aG9kICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluU3RhcnRQZXJpb2QpICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluRW5kUGVyaW9kKSArCgkJIl8iICsgc3RyY29udi5JdG9hKGNwai5DbHVzdGVyTnVtYmVyKSArICIuanNvbiIKCWYsIGVyciA6PSBvcy5PcGVuKHBhdGggKyBjLlJlcXVlc3RzRmlsZU5hbWUgKwoJCSJfY2x1c3RlcmluZ19yZXN1bHRfIiArIGNwai5DbHVzdGVyaW5nTWV0aG9kICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluU3RhcnRQZXJpb2QpICsKCQkiXyIgKyBzdHJjb252Lkl0b2EoY3BqLlRyYWluRW5kUGVyaW9kKSArCgkJIl8iICsgc3RyY29udi5JdG9hKGNwai5DbHVzdGVyTnVtYmVyKSArICIuY3N2IikKCWlmIGVyciAhPSBuaWwgewoJCXBhbmljKGVycikKCX0KCWRlZmVyIGYuQ2xvc2UoKQoJcmVhZENsdXN0ZXJpbmdSZXN1bHQobW9kZWwsIGYpCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVNwIDo9IGlucHV0WzBdCglTZHAgOj0gaW5wdXRbMF0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlpZiB0IDw9IGxlbihpbnB1dCktMSAmJiBpbnB1dFt0XS1pbnB1dFt0LTFdICE9IDAgewoJCQljID0gKGlucHV0W3RdIC0gaW5wdXRbdC0xXSkgLyAoaW5wdXRbdC0xXSAtIGlucHV0W3QtMl0pCgkJfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlpZiB0IDw9IGxlbihpbnB1dCktMSAmJiBpbnB1dFt0LTFdLWlucHV0W3QtMl0gIT0gMCB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJYyA9IChpbnB1dFt0XSAtIGlucHV0W3QtMV0pIC8gKGlucHV0W3QtMV0gLSBpbnB1dFt0LTJdKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CWMgOj0gMQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJYyA9IChpbnB1dFt0XSAtIGlucHV0W3QtMV0pIC8gKGlucHV0W3QtMV0gLSBpbnB1dFt0LTJdKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiB0ID49IDIgJiYgaW5wdXRbdC0xXS1pbnB1dFt0LTJdICE9IDAgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXJldHVybiAxCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gZmxvYXQ2NChpbnB1dFt0XSAtIGlucHV0W3QtMV0pIC8gZmxvYXQ2NChpbnB1dFt0LTFdIC0gaW5wdXRbdC0yXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWlmIHQgPj0gMiAmJiBpbnB1dFt0LTFdLWlucHV0W3QtMl0gIT0gMCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
