@@ -287,10 +287,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498524270377">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498525549007">
+        <mark key="[" line="337" column="26" />
+        <mark key="]" line="337" column="26" />
+        <mark key="." line="337" column="26" />
+        <mark key="^" line="337" column="38" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498157793846">
         <mark key="[" line="24" column="12" />
@@ -371,11 +372,11 @@
       <jump line="68" column="31" filename="$USER_HOME$/go/src/github.com/hansamuE/sccache/reader.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS8vZmxsIDo9IHByZWRpY3RvcnMucHJlZGljdEZpbGVSYW5raW5ncyhpbnB1dCkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlsb2cgKz0gIlx0IiArIHN0cmNvbnYuRm9ybWF0RmxvYXQoZmxvYXQ2NChuKS9mbG9hdDY0KGZpeGVkRmlsZVEpLCAnZicsIDIsIDY0KQo=</text>
