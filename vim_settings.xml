@@ -287,11 +287,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498594287794">
-        <mark key="[" line="466" column="10" />
-        <mark key="]" line="466" column="28" />
-        <mark key="." line="466" column="28" />
-        <mark key="^" line="466" column="28" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498595195186">
+        <mark key="[" line="173" column="62" />
+        <mark key="]" line="173" column="61" />
+        <mark key="." line="173" column="61" />
+        <mark key="^" line="173" column="61" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498157793846">
         <mark key="[" line="24" column="12" />
