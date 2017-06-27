@@ -287,11 +287,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498581374703">
-        <mark key="[" line="490" column="104" />
-        <mark key="]" line="490" column="105" />
-        <mark key="." line="490" column="105" />
-        <mark key="^" line="462" column="37" />
+      <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/simulator/simulator.go" timestamp="1498583680296">
+        <mark key="[" line="455" column="107" />
+        <mark key="]" line="455" column="108" />
+        <mark key="." line="455" column="108" />
+        <mark key="^" line="491" column="92" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/hansamuE/sccache/predictor/ama.go" timestamp="1498157793846">
         <mark key="[" line="24" column="12" />
@@ -373,13 +373,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJnb2xhbmcub3JnL3gvdG9vbHMvZ28vZ2NpbXBvcnRlcjE1L3Rlc3RkYXRhIgo=</text>
+        <text encoding="base64">CQkJCWZvciBfLCBwb3BGaWxlIDo9IHJhbmdlIGZsWzppbnQoZmxvYXQ2NChjcC5TbWFsbENlbGxTaXplL2NwLkZpbGVTaXplKmxlbihjcy5zbWFsbENlbGxzKSkqY3AuUHJvcG9ydGlvbkZpeGVkKV0gewo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlsb2cgKz0gIlx0IiArIHN0cmNvbnYuRm9ybWF0RmxvYXQoZmxvYXQ2NChuKS9mbG9hdDY0KGZpeGVkRmlsZVEpLCAnZicsIDIsIDY0KQo=</text>
+        <text encoding="base64">CQkJCWZvciBfLCBwb3BGaWxlIDo9IHJhbmdlIGZsWzppbnQoZmxvYXQ2NChjcC5TbWFsbENlbGxTaXplL2NwLkZpbGVTaXplKmxlbihjcy5zbWFsbENlbGxzKSkqY3AuUHJvcG9ydGlvbkZpeGVkKV0gewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSJnb2xhbmcub3JnL3gvdG9vbHMvZ28vZ2NpbXBvcnRlcjE1L3Rlc3RkYXRhIgo=</text>
